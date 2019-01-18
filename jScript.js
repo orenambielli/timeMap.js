@@ -4,6 +4,8 @@
 // to convert the current date and time 
 // into map coordinates that will display a
 // Google map result into an iFrame.
+// Serves little purpose, but was fun to work on.
+
 // See it in action here:
 // https://codepen.io/orenambielli/pen/gQYqoN
 
